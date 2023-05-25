@@ -1,6 +1,6 @@
 package com.application.covid.repo.db2;
 
-import com.application.covid.Modles.db2.Laptop;
+import com.application.covid.Models.db2.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

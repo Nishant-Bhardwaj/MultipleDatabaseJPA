@@ -1,6 +1,6 @@
 package com.application.covid.repo.db1;
 
-import com.application.covid.Modles.db1.Laptop;
+import com.application.covid.Models.db1.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

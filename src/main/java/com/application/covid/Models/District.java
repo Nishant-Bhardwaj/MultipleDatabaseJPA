@@ -1,4 +1,4 @@
-package com.application.covid.Modles;
+package com.application.covid.Models;
 
 import org.springframework.stereotype.Component;
 
